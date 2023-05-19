@@ -1,0 +1,22 @@
+## recon tools 
+
+- wfuff
+- amass
+- owasp zap 
+- crt.sh
+- whois and reverse whois
+- nslookup 
+- gobuster/dirb/dirbuster
+- builtwith
+- scrapy
+- cyberchef (encoding & decoding)
+- whatcms
+- google hacking database (google dorking)
+- Striker (robots.txt)
+- wappalyzer
+- BURP (spidering & crawling)
+- nikto
+- nmap/masscan
+- Shodan (passive recon)
+- maltgo (ss)
+- viewdns.info
