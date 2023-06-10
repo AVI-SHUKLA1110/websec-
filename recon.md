@@ -3,7 +3,11 @@
 - wfuff
 - amass
 - owasp zap 
-- crt.sh
+- crt.sh /certspotter -
+> curl -s "https://api.certspotter.com/v1/issuances?domain=yahoo.com&expand=dns_names" <br>
+> curl -s  "https://api.certspotter.com/v1/issuances?domain=yahoo.com&expand=dns_names" | jq '.[].dns_names[] ' (to get the results in readable form)
+
+
 - whois and reverse whois
 - nslookup 
 - gobuster/dirb/dirbuster
